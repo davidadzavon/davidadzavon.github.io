@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-permalink: / contact/
+permalink: /contact/
 description: Get in touch and subscribe to research updates.
 nav: true
 nav_order: 8
