@@ -1,0 +1,29 @@
+/* Agrandir les champs du formulaire de contact */
+#contact-name,
+#contact-email,
+#contact-subject,
+#contact-message,
+#newsletter-email {
+  width: 100%;
+  max-width: 700px;
+  padding: 14px 16px;
+  font-size: 16px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+/* Agrandir la zone de message */
+#contact-message {
+  min-height: 180px;
+  resize: vertical;
+}
+
+/* Espacement entre les champs */
+#contact-name,
+#contact-email,
+#contact-subject,
+#contact-message,
+#newsletter-email {
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
