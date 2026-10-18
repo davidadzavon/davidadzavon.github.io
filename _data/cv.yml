@@ -1,0 +1,253 @@
+cv:
+  name: Koffi Adzavon
+  label: PhD Candiate
+  email: koffi.adzavon@umontpellier.fr
+  location: 2 place pierre viala, Montpellier 34000
+  image: ""
+  summary: >-
+    I am a PhD candidate in Environmental Economics at the University of
+    Montpellier, affiliated with the Centre for Environmental Economics
+    of Montpellier (CEE-M). My research focuses on drought, conflict,
+    climate change, and economic development in Africa. 
+
+  address:
+    street: "2 place pierre viala"
+    city: " Montpellier Cedex 2"
+    region: "Occitanie"
+    postalCode: "34000"
+    countryCode: "FR"
+
+
+  sections:
+    Education:
+      - institution: University of Montpellier - Centre for Environmental Economics of Montpellier (CEE-M)
+        location: Montpellier, France
+        area: Environmental Economics
+        studyType: PhD Candidate
+        start_date: Oct-2023
+        end_date: 2027 (exp)
+        # score: ""
+        # courses: "Environmental Economics, Econometrics, Data Science"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
+
+      - institution: University Paris-Saclay
+        location: Palaiseau, France
+        area: Prospective Modeling
+        studyType: MSc in Economics, Environment, Energy, and Transport (EEET)
+        start_date: sept 2023
+        end_date: Oct 2024
+
+      - institution: University Joseph Ki-Zerbo
+        location: Ouagadougou, B. Faso
+        area: Environment Science
+        studyType: MSc Informatics for Climate Change (MRPICC)
+        start_date: Dec 2021
+        end_date: Aug 2023
+
+      - institution: University of Lomé
+        location: Lomé, Togo
+        area: Economics and Management Sciences
+        studyType: BSc International Economics
+        start_date: Oct 2017
+        end_date: Sept 2020
+
+
+    Experience:
+      - company: Bureau d'Economie Théorique et Appliquée (BETA)
+        position: Research Assistant
+        location: Nancy, France
+        start_date: Mar 2024
+        end_date: Sept 2024
+        # summary: Conducted research in theoretical economics and environmental policy.
+        highlights:
+        - Designed and implemented a Discrete Choice Experiment (DCE) to analyze non-market preferences.
+        - Conducted survey design and data collection, including questionnaire development and sampling strategy.
+        - Performed data wrangling and cleaning using statistical software.
+        - Applied econometric methods to estimate preferences and willingness-to-pay.
+
+      - company: Climate Analytics Togo
+        position: Volunteer
+        location: Lomé, Togo
+        start_date: Jul 2023
+        end_date: Sept 2023
+        highlights:
+          - Contributed to the development of Togo’s long-term low-emission development strategies (LEDS).
+
+
+      - company: Competence Center of West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL)
+        position: Research Assistant
+        location: Ouagadougou, B. Faso
+        start_date: Jan 2023
+        end_date: Jul 2023
+        highlights:
+          - Collected and analyzed secondary data on climate, conflict, and socio-economic indicators in Burkina Faso.
+          - Conducted spatial analysis using GIS to map drought and conflict hotspots.
+          - Applied econometric methods to study the relationship between climate shocks and conflict dynamics.
+          - Contributed to data cleaning, harmonization, and preparation for further empirical research.
+
+
+      - company: University of Montpellier (UM) / Institut Agro Montpellier (IAM)
+        position: Teaching Assistant
+        location: Montpellier, France
+        start_date: Jan 2026
+        end_date: Apr 2026
+        highlights:
+          - Undergraduate L1, 64 hours mathematics for economist (UM)
+          - Undergraduate L1, 8 hours of exams supervision (UM)
+          - Msc students (IAM), 10 hours Microeconomics
+
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
+
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
+
+    Awards:
+      - title: West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL)
+        # authors:
+          # - "Royal Swedish Academy of Sciences"
+        start_date: Sept 2021
+        end_date: Jul 2023
+        # awarder: Royal Swedish Academy of Sciences
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: This scholarship enabled me to continue my master's studies in Informatics for Climate Change in Burkina Faso.
+
+      - title: Recipient of the France Excellence Scholarship (BGF) – Embassy of France in Togo
+        # authors:
+        #   - "German Physical Society"
+        start_date: Sept 2023
+        end_date: Jul 2024
+        # awarder: German Physical Society
+        summary: This scholarship enabled me to pursue a one-year master's degree at Université Paris-Saclay (AgroParisTech - Palaiseau) in France.
+
+      - title: Recipient of the - grant from the French ministry of national education, higher education and research
+        # authors:
+        #   - "German Physical Society"
+        start_date: Oct 2024
+        end_date: Sept 2027
+        # awarder: German Physical Society
+        summary: This scholarship enabled me to pursue my current PhD degree at Université de Montpellier in France.
+
+
+    Publications:
+      - title: Assessing the impact of climate extreme events and conflicts on internal displacement in Burkina Faso
+        authors:
+          - Adzavon Koffi Doh David, Sanfo Safiétou, Wonyra Kwami Ossadzifo, and Fürst Christine
+        publisher: Elsevier
+        releaseDate: 2025
+        url: https://doi.org/10.1016/j.ijdrr.2025.105470
+        summary: This study investigates the dynamic relationship between climate extreme events, conflicts, and internal displacement in Burkina Faso. Using monthly data on floods, storms, droughts, violent and non-violent conflicts, and demonstrations from 2018 to 2022, the analysis shows that, unlike storms, floods have affected all regions, while droughts are a recurring phenomenon nationwide. Demonstrations are less frequent, whereas violent and non-violent conflicts are more common in the Sahel and Eastern regions and spread to other areas. Applying a dynamic modeling approach, we identify both short and long run relationships. The results reveal that violent events, droughts and storms are associated with increased internal displacement, whether in the short or long run. We observe that demonstrations initially lead to displacement, but over time, the situation stabilizes. Overall, the results highlight the need for effective conflict management policies and climate measures to mitigate the effects of extreme events in Burkina Faso.
+
+    
+    
+    # "Conferences":
+    #   - date: "2026"
+    #     highlights: 
+    #     - "EENR – Environmental Economics: A Focus on Natural Resources (Orléans); 
+    #     - FAERE Conference (Dijon)."
+
+    #   - name: "2024–2025"
+    #     summary: "ETEPP – Thematic School on Public Policy Evaluation (Aussois); FAERE Conference (Nantes); Summer School in Empirical Research Methods (Lyon); SSFE – Scandinavian Society of Forest Economics (Oslo, 2025)."
+
+    #   - name: "2022–2023"
+    #     summary: "WASCAL Science Symposium (Burkina Faso, 2022); Climate Forum (Mittweida University, Germany, 2023); Workshop on Monitoring and Evaluation of Projects (Burkina Faso, 2023)."
+
+
+
+      # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      #   authors:
+      #     - Albert Einstein
+      #   publisher: Annalen der Physik
+      #   releaseDate: 1905-03-18
+      #   url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+      #   summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+
+      # - title: Die Grundlage der allgemeinen Relativitätstheorie
+      #   authors:
+      #     - Albert Einstein
+      #   publisher: Annalen der Physik
+      #   releaseDate: 1916-03-20
+      #   url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+      #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+    Skills:
+      - name: Economics, Econometrics, GIS, Climate change, Remote Sensing, Machine learning, Deep learning
+        # level: Master
+        # icon: fa-solid fa-hashtag
+        keywords: "R, Python, Stata, High Performance Computing (HPC), SQL, HTML/CSS, JavaScript, GitHub, Survey (LimeSurvey, ODK, Kobo) among others"
+
+    Languages:
+      - name: French
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+      
+      - name: Ewe
+        summary: "Native Speaker"
+
+      - name: Spanish
+        summary: "Beginner"
+
+
+    # Interests:
+    #   - name: Physics
+    #     icon: fa-solid fa-tag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
+
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
+
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
+
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
+
+
+References:
+  - name: Raphael SOUBEYRAN
+    reference: "Senior Researcher at the Center for Environmental Economics Montpellier (CEE-M) – PhD advisor. Email: [raphael.soubeyran@inrae.fr](mailto:raphael.soubeyran@inrae.fr)"
+
+  - name: Jens ABILDTRUP
+    reference: "Research Scientist, INRAE Campus AgroParisTech. Email: [jens.abildtrup@inrae.fr](mailto:jens.abildtrup@inrae.fr)"
+
+  - name: Kwami Ossadzifo WONYRA
+    reference: "Associate Professor, Department of Economics and Management, Université de Kara, Togo. Email: [wonyra.ossa@gmail.com](mailto:wonyra.ossa@gmail.com)"
+
+  - name: Ousmane COULIBALY
+    reference: "Professor, Deputy Director of the Doctoral School EDICC, Burkina Faso. Email: [coulous2005@yahoo.fr](mailto:coulous2005@yahoo.fr)"

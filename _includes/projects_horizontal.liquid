@@ -1,0 +1,39 @@
+<div class="col mb-4">
+  <div class="card h-100 hoverable">
+    <div class="row no-gutters align-items-start">
+
+      {% if project.img %}
+      <div class="col-md-4" style="padding-top: 7rem;">
+        <a href="{{ project.url | relative_url }}">
+          {% include figure.liquid loading="eager" path=project.img sizes="(min-width: 768px) 400px, 100vw" alt=project.title class="card-img" %}
+        </a>
+      </div>
+      {% endif %}
+
+      <div class="{% if project.img %}col-md-8{% else %}col-md-12{% endif %}">
+        <div class="card-body">
+          <p><strong>Research paper</strong></p>
+
+          <h4 class="card-title" style="font-size: 1.15rem; line-height: 1.4;">
+            <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+          </h4>
+
+          {% if project.authors %}
+          <p style="font-size: 0.82rem; color: #777; font-style: italic; margin-top: 0.3rem; margin-bottom: 0.8rem;">
+            {{ project.authors }}
+          </p>
+          {% endif %}
+
+          {% if project.abstract %}
+          <p class="card-text">{{ project.abstract | markdownify | strip_html | strip_newlines }}</p>
+          {% elsif project.description %}
+          <p class="card-text">{{ project.description }}</p>
+          {% endif %}
+
+          <a href="{{ project.url | relative_url }}">Read paper →</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
