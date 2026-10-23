@@ -71,3 +71,19 @@ article p a:hover, article li a:hover, .news a:hover { text-decoration: underlin
 .social .fa-linkedin { color: #0A66C2 !important; }
 .social .fa-envelope { color: #555 !important; }
 .social .ai-google-scholar { color: #4f5ad9 !important; }
+
+
+/* Vignette de couverture sous le badge de la revue */
+.publications .abbr img,
+.publications .preview img,
+.publications img.preview {
+  max-height: 130px !important;
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  display: block;
+  margin: 0.5rem auto 0 auto;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+}

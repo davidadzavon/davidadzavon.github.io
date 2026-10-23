@@ -18,3 +18,27 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<style>
+/* Couverture : même largeur que le badge, hauteur limitée */
+  .abbr picture,
+  .abbr figure {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+  img.preview,
+  .abbr img,
+  .abbr picture img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 110px !important;
+    max-height: 110px !important;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+    margin-top: 0.5rem;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  }
+</style>

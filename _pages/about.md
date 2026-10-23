@@ -66,10 +66,40 @@ latest_posts:
   .contact-icons .fa-envelope { color: #EA4335 !important; }
   .contact-icons .ai-google-scholar,
   .contact-icons .fa-google-scholar { color: #4285F4 !important; }
+
+  /* Nom en gras en haut de la page */
+  .post-title,
+  .navbar-brand {
+    font-weight: 700 !important;
+  }
+
+   /* Couverture : même largeur que le badge, hauteur limitée */
+  .abbr picture,
+  .abbr figure {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+  img.preview,
+  .abbr img,
+  .abbr picture img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 110px !important;
+    max-height: 110px !important;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+    margin-top: 0.5rem;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  }
+
+  
 </style>
 
 
-I am a PhD candidate at the University of Montpellier and the Centre for Environmental Economics of Montpellier (CEE-M), under the supervision of **<u>Raphael Soubeyran</u>**. My research focuses on **<u>drought and development in Africa</u>**, with particular emphasis on drought–conflict dynamics and the role of different adaptation strategies in reducing conflict risk.
+I am a PhD candidate at the University of Montpellier and the Centre for Environmental Economics of Montpellier (CEE-M),under the supervision of <a href="https://sites.google.com/site/soubeyranhomepage/" target="_blank" title="Raphael Soubeyran – Senior Researcher at INRAE, CEE-M (click to view his page)"><strong>Raphael Soubeyran</strong></a>. My research focuses on **<u>drought and development in Africa</u>**, with particular emphasis on drought–conflict dynamics and the role of different adaptation strategies in reducing conflict risk.
 
 This website provides an overview of my doctoral research, publications, ongoing projects, and academic activities.
 
@@ -113,3 +143,4 @@ This website provides an overview of my doctoral research, publications, ongoing
   }
 ]
 </script>
+
