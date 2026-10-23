@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Experience
-# description: Course materials, schedules, and resources for classes taught.
+title: Teaching
 nav: true
 nav_order: 5
 calendar: false
 ---
+
+<style>
+  .post-header .post-title { display: none; }
+</style>
+
+<h1 class="post-title">Teaching Experience</h1>
 
 ### Université de Montpellier
 
