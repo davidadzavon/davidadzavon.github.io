@@ -7,14 +7,14 @@ first_name: Koffi
 # middle_name: D. D.
 last_name: Adzavon
 contact_note: >
-   Learn more about me or connect with me via the social media icons above.
+    Learn more about me or connect with me via the social media icons above.
 description: >
-  Personal website of Koffi Adzavon, PhD candidate in economics at the University of Montpellier (CEE-M). Research on drought, conflict and climate adaptation in Africa.
+    Personal website of Koffi Adzavon, PhD candidate in economics at the University of Montpellier (CEE-M). Research on drought, conflict and climate adaptation in Africa.
 keywords: Koffi Adzavon, environmental economics, development economics, drought, conflict, climate adaptation, Africa, CEE-M, University of Montpellier
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-icon: "My_picture.jpg"
+icon: 🎓
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://davidadzavon.github.io # the base hostname & protocol for your site

@@ -8,8 +8,6 @@ nav_order: 5
 calendar: false
 ---
 
-#Teaching Experience
-
 ### Université de Montpellier
 
 **Teaching Assistant — Mathematics for Economists (Undergraduate, Year 1)**  
