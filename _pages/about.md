@@ -85,3 +85,31 @@ This website provides an overview of my doctoral research, publications, ongoing
 
 **Affiliations:** <a href="https://esploro.umontpellier.fr/esploro/profile/koffi_adzavon/overview/"><u>Université de Montpellier</u></a> · <a href="https://www.cee-m.fr/fr/member/adzavon-koffi-doh-david-2//"><u>Centre d’Économie de l’Environnement de Montpellier (CEE-M)</u></a> · <a href="https://chair-energy-prosperity.org/category/chercheurs-associes/raphael-soubeyran/koffi-doh-david-adzavon/"><u>Chair Energy & Prosperity</u></a>
 
+
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Koffi Adzavon",
+    "url": "https://davidadzavon.github.io/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Koffi Doh David Adzavon",
+    "url": "https://davidadzavon.github.io/",
+    "image": "https://davidadzavon.github.io/assets/img/My_picture.jpg",
+    "jobTitle": "PhD candidate in economics",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "University of Montpellier – CEE-M"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/in/TON-PROFIL",
+      "https://scholar.google.com/citations?user=TON-ID"
+    ]
+  }
+]
+</script>

@@ -8,13 +8,10 @@ first_name: Koffi
 last_name: Adzavon
 contact_note: >
    Learn more about me or connect with me via the social media icons above.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-# footer_text: >
-#   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-#   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-#   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+description: >
+  Personal website of Koffi Adzavon, PhD candidate in economics at the University of Montpellier (CEE-M). Research on drought, conflict and climate adaptation in Africa.
+keywords: Koffi Adzavon, environmental economics, development economics, drought, conflict, climate adaptation, Africa, CEE-M, University of Montpellier
+
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 icon: "My_picture.jpg"
@@ -116,9 +113,10 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: true # 
+og_image: https://davidadzavon.github.io/assets/img/My_picture.jpg
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
