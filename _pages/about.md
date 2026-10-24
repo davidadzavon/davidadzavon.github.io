@@ -95,6 +95,24 @@ latest_posts:
     box-shadow: 0 1px 4px rgba(0,0,0,0.15);
   }
 
+  /* Titres de section en badge, comme IJDRR */
+  h2 {
+    display: inline-block;
+    background: var(--global-theme-color);
+    color: #fff !important;
+    font-size: 1.3rem !important;
+    font-weight: 600 !important;
+    padding: 0.3rem 0.9rem;
+    border-radius: 6px;
+    border: none !important;
+    margin-top: 1.5rem;
+  }
+  h2 a, h2 a:hover {
+    color: #fff !important;
+    text-decoration: none !important;
+    border: none !important;
+  }
+
   
 </style>
 
