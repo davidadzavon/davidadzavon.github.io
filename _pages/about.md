@@ -113,6 +113,31 @@ latest_posts:
     border: none !important;
   }
 
+
+
+  /* Publications sur téléphone : image à gauche, texte à côté */
+  @media (max-width: 576px) {
+    .publications .row {
+      flex-wrap: nowrap !important;
+    }
+    .publications .row > .abbr {
+      flex: 0 0 75px !important;
+      max-width: 75px !important;
+      padding-right: 0.5rem;
+    }
+    .publications .row > div:not(.abbr) {
+      flex: 1 1 auto !important;
+      max-width: calc(100% - 75px) !important;
+    }
+    .publications .abbr .badge {
+      font-size: 0.65rem;
+    }
+    .publications .abbr img {
+      height: 90px !important;
+      max-height: 90px !important;
+    }
+  }
+
   
 </style>
 
